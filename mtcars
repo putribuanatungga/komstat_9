@@ -3,3 +3,4 @@ mean(mtcars$mpg)
 str(mtcars)
 hist(mtcars$mpg)
 plot(mtcars$mpg, mtcars$cyl)
+putricantik
